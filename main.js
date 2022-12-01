@@ -84,15 +84,19 @@ function operaciones(){
     numero2 = "";
     boxNumber.innerText = resultado;
   } 
+  
 }
 
 function limpiar() {
   limpiarboton.addEventListener('click', ()=>{
     boxNumber.innerText = '';
     arrayNumeros = [];
-    numerosString = "";
+    numerosString="";
     resultado = "";
-    numero1 = "";
-    numero2 = "";
+    numero1 ="";
+    numero2 ="";
+    operador = "";
+    
   })
+  
 }
