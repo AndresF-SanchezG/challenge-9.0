@@ -20,10 +20,10 @@ Put into practice knowledge related to:
 
 # Links
 
-- Live Site URL: [Vercel deployed app](https://challenge8-inky.vercel.app/)
+- Live Site URL: [Vercel deployed app](https://challenge-9-0.vercel.app/)
 
 # Author
 
 - Autor - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
-- School - [Frontend Mentor](https://www.frontendmentor.io/profile/AndresF-SanchezG)
-- Challenge - [Social proof section](https://www.frontendmentor.io/solutions/challenge-resolved-with-html-and-css-xeQXw49vtb)
+- School - [Freecodecamp](https://www.freecodecamp.org/andresSanchez)
+- Challenge - [Cómo crear una aplicación de calculadora HTML desde cero usando JavaScript](https://www.freecodecamp.org/espanol/news/como-crear-una-aplicacion-de-calculadora-html-desde-cero-usando-javascript/)
