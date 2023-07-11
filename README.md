@@ -16,6 +16,7 @@ Put into practice knowledge related to:
 
 # Screenshot
 
+![Captura2](https://github.com/AndresF-SanchezG/challenge-9.0/assets/113924667/38f56255-6331-476a-a680-21f268adf02e)
 
 # Links
 
